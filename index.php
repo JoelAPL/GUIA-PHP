@@ -11,6 +11,10 @@
         <?php  echo "<h1>Script en PHP</h1>"?>
         <?php  echo "<p>Script en PHP</p>"?>
         <!-- Estos scrip con etiquetas adentro muestra que html interpreta el contenido de php con sus etiquetas y detalles -->
+    
+        <?php phpinfo(); ?>
+
+    
     </body>
 
 </html>
