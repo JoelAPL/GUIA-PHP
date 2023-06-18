@@ -7,7 +7,10 @@
     </head>
 
     <body>
-        <?php  echo "Script en PHP"?>
+        <?php  echo "<h6>Script en PHP</h6>"?>
+        <?php  echo "<h1>Script en PHP</h1>"?>
+        <?php  echo "<p>Script en PHP</p>"?>
+        <!-- Estos scrip con etiquetas adentro muestra que html interpreta el contenido de php con sus etiquetas y detalles -->
     </body>
 
 </html>
